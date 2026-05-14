@@ -35,4 +35,4 @@ jobs:
         uses: treosh/lighthouse-ci-action@v11
         with:
           configPath: .lighthouserc.json
-          runs: 3
+          runs: 3\n
