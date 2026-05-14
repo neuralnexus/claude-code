@@ -51,4 +51,4 @@ jobs:
           files: |
             release-assets/claude-cli.mjs
             release-assets/docker-compose.tar.gz
-            docker/docker-compose.yml\n
+            docker/docker-compose.yml
