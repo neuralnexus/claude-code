@@ -199,4 +199,4 @@ jobs:
   #       with:
   #         name: playwright-report
   #         path: playwright-report/
-  #         retention-days: 7\n
+  #         retention-days: 7
