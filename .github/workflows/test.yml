@@ -124,4 +124,4 @@ jobs:
         with:
           name: visual-regression-diffs
           path: web/test-results/
-          retention-days: 7\n
+          retention-days: 7
